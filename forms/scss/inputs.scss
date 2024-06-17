@@ -1,0 +1,137 @@
+.input-wrapper {
+    display: flex;
+    background-color: orange;
+    width: 40%;
+    margin-top: 100px;
+    float: left;
+    margin: auto;
+    margin-left: 90px;
+    margin-top: 100px;
+}
+
+.text-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+.text-field:focus {
+border: 2px solid sandybrown;
+}
+
+.icon {
+padding: 20px;
+min-height: 30px;
+text-align: center;
+color: white;
+}
+.input-wrapper2 {
+    display: flex;
+    background-color: gold;
+    width: 40%;
+    margin-top: 100px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.text-field2 {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+.text-field2:focus {
+border: 2px solid yellow;
+}
+
+.icon2 {
+padding: 20px;
+min-height: 30px;
+text-align: center;
+color: white;
+}
+
+.input-wrapper3 {
+    display: flex;
+    background-color: lightgreen;
+    width: 40%;
+    margin-top: 100px;
+    float: left;
+    margin: auto;
+    margin-left: 90px;
+    margin-top: 100px;
+}
+
+.text-field3 {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    
+}
+
+.text-field3:focus {
+border: 2px solid green;
+}
+
+.icon3 {
+padding: 20px;
+min-height: 30px;
+text-align: center;
+color: white;
+}
+.input-wrapper4 {
+    display: flex;
+    background-color: cadetblue;
+    width: 40%;
+    margin-top: 100px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.text-field4 {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+.text-field4:focus {
+border: 2px solid cornflowerblue;
+}
+
+.icon4 {
+padding: 20px;
+min-height: 30px;
+text-align: center;
+color: white;
+}
+
+.input-wrapper5 {
+    display: flex;
+    background-color: darkorchid;
+    width: 60%;
+    margin-top: 100px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.text-field5 {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+.text-field5:focus {
+border: 2px solid purple;
+}
+
+.icon5 {
+padding: 20px;
+min-height: 50px;
+text-align: center;
+color: white;
+}
+
+::placeholder {
+    color: mediumvioletred;
+    text-align: center;
+}

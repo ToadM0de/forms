@@ -1,0 +1,49 @@
+.input-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: cornflowerblue;
+  width: 50%;
+  margin-top: 100px;
+}
+
+.text-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.text-field:focus {
+  border: 2px solid goldenrod;
+}
+
+.icon {
+  padding: 20px;
+  min-height: 30px;
+  text-align: center;
+}
+
+.input-wrapper2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: cornflowerblue;
+  width: 50%;
+  margin-top: 100px;
+}
+
+.text-field2 {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.text-field:focus2 {
+  border: 2px solid goldenrod;
+}
+
+.icon2 {
+  padding: 20px;
+  min-height: 30px;
+  text-align: center;
+}
